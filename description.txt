@@ -1,0 +1,11 @@
+first need to install python package for sql database procesing.
+for this go to anaconda prompt or any python command prompt and enter command: 
+
+pip install pysqlite
+
+import sqlite3
+
+then refer to this url to check database connectivity...
+
+http://www.python-course.eu/sql_python.php
+
